@@ -20,6 +20,8 @@ I love learning new technologies, improving my coding skills, and creating usefu
 ### 💻 Languages / Programming
 
 <p>
+  <img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white" />
+  <img src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=cplusplus&logoColor=white" />
   <img src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=csharp&logoColor=white" />
   <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" />
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
@@ -28,8 +30,9 @@ I love learning new technologies, improving my coding skills, and creating usefu
 ### 🧩 Frameworks
 
 <p>
-  <img src="https://img.shields.io/badge/SpringBoot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white" />
+  <img src="https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white" />
   <img src="https://img.shields.io/badge/ASP.NET%20MVC4-512BD4?style=for-the-badge&logo=dotnet&logoColor=white" />
+  <img src="https://img.shields.io/badge/SpringBoot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white" />
   <img src="https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white" />
 </p>
 
@@ -52,6 +55,10 @@ I love learning new technologies, improving my coding skills, and creating usefu
 
 <p>
   <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
+  <img src="https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white" />
+  <img src="https://img.shields.io/badge/Visual%20Studio-5C2D91?style=for-the-badge&logo=visualstudio&logoColor=white" />
+  <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white" />
 </p>
 
 ### 🎨 Design
@@ -60,6 +67,21 @@ I love learning new technologies, improving my coding skills, and creating usefu
   <img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white" />
 </p>
 
+---
+
+## 📚 Currently Learning
+
+<p>
+  <img src="https://img.shields.io/badge/Unity-000000?style=for-the-badge&logo=unity&logoColor=white" />
+  <img src="https://img.shields.io/badge/Game%20Development-FF6F00?style=for-the-badge&logo=gamemaker&logoColor=white" />
+  <img src="https://img.shields.io/badge/Pixel%20Art-FF69B4?style=for-the-badge" />
+</p>
+
+- Unity basics
+- Game Development fundamentals
+- Pixel Art animation
+- Back-end architecture
+  
 ---
 
 ## 🎮 Interests
@@ -109,6 +131,18 @@ I love learning new technologies, improving my coding skills, and creating usefu
   <a href="https://www.linkedin.com/in/ngan-luong-nguyen-928b283a5/">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
+</p>
+
+---
+
+## 📊 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=LunoNguyen&show_icons=true&theme=tokyonight" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=LunoNguyen&layout=compact&theme=tokyonight" />
 </p>
 
 ---
