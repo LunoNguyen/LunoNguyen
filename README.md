@@ -1,4 +1,3 @@
-```md
 <h1 align="center">Hi 👋, I'm Nguyễn Ngân Lượng</h1>
 
 <h3 align="center">Back-end Developer | Game Development Enthusiast | Pixel Art Lover</h3>
