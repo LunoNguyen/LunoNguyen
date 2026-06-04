@@ -79,7 +79,6 @@ I love learning new technologies, improving my coding skills, and creating usefu
 <table align="center">
   <tr>
     <td align="center">
-      <td align="center">
       <img src="assets/DuCa_thumbnail.gif" width="250" /><br/>
       <b>Discord Banner</b>
     </td>
@@ -87,6 +86,7 @@ I love learning new technologies, improving my coding skills, and creating usefu
       <img src="assets/Hibiki_Du_Ca_Cursors.gif" width="250" /><br/>
       <b>Cursors</b>
     </td>
+    <td align="center">
       <img src="assets/RedTheRacoon_Cursors.gif" width="250" /><br/>
       <b>Cursors</b>
     </td>
