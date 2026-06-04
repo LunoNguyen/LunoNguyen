@@ -6,7 +6,7 @@
 
 ## 🌟 About Me
 
-Hello! My name is **Nguyễn Ngân Lượng**. You can also call me **Luno**, that's my nickname.
+Hello! My name is **Nguyễn Ngân Lượng**. Online, I usually go by **Luno**.
 
 I am a **Back-end Developer** who enjoys building clean, efficient, and scalable applications.  
 Besides programming, I am also interested in **Game Development** and **Pixel Art Drawing**.
