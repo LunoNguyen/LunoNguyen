@@ -90,7 +90,7 @@ I love learning new technologies, improving my coding skills, and creating usefu
   <tr>
     <td align="center">
       <img src="assets/DuCa_Discord_Banner.gif" width="250" /><br/>
-      <b>Random Gif</b>
+      <b>Discord Banner</b>
     </td>
     <td align="center">
       <img src="assets/DuCa_thumbnail.gif" width="250" /><br/>
@@ -101,11 +101,11 @@ I love learning new technologies, improving my coding skills, and creating usefu
       <b>Cursors</b>
     </td>
     <td align="center">
-      <img src="assets/RedTheRacoon_Cursors.gif" width="250" /><br/>
+      <img src="assets/MaThang_Cursors.gif" width="250" /><br/>
       <b>Cursors</b>
     </td>
     <td align="center">
-      <img src="assets/MaThang_Cursors.gif" width="250" /><br/>
+      <img src="assets/RedTheRacoon_Cursors.gif" width="250" /><br/>
       <b>Cursors</b>
     </td>
   </tr>
