@@ -2,8 +2,6 @@
 
 <h3 align="center">Back-end Developer | Game Development Enthusiast | Pixel Art Lover</h3>
 
----
-
 ## 🌟 About Me
 
 Hello! My name is **Nguyễn Ngân Lượng**. Online, I usually go by **Luno**.
@@ -12,8 +10,6 @@ I am a **Back-end Developer** who enjoys building clean, efficient, and scalable
 Besides programming, I am also interested in **Game Development** and **Pixel Art Drawing**.
 
 I love learning new technologies, improving my coding skills, and creating useful digital products.
-
----
 
 ## 🚀 Top Skills
 
@@ -67,8 +63,6 @@ I love learning new technologies, improving my coding skills, and creating usefu
   <img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white" />
 </p>
 
----
-
 ## 📚 Currently Learning
 
 <p>
@@ -81,8 +75,6 @@ I love learning new technologies, improving my coding skills, and creating usefu
 - Game Development fundamentals
 - Pixel Art animation
 - Back-end architecture
-  
----
 
 ## 🎮 Interests
 
@@ -91,8 +83,6 @@ I love learning new technologies, improving my coding skills, and creating usefu
 - Pixel Art
 - Software Architecture
 - Database Design
-
----
 
 ## 🎨 My Pixel Art Showcase
 
@@ -121,8 +111,6 @@ I love learning new technologies, improving my coding skills, and creating usefu
   </tr>
 </table>
 
----
-
 ## 📫 Contact Me
 
 <p>
@@ -134,8 +122,6 @@ I love learning new technologies, improving my coding skills, and creating usefu
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
 </p>
-
----
 
 ## ✨ Quote
 
