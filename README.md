@@ -79,8 +79,12 @@ I love learning new technologies, improving my coding skills, and creating usefu
 <table align="center">
   <tr>
     <td align="center">
+      <img src="assets/DuCa_Discord_Banner.gif" width="250" /><br/>
+      <b>Random Gif</b>
+    </td>
+    <td align="center">
       <img src="assets/DuCa_thumbnail.gif" width="250" /><br/>
-      <b>Discord Banner</b>
+      <b>Random Gif</b>
     </td>
     <td align="center">
       <img src="assets/Hibiki_Du_Ca_Cursors.gif" width="250" /><br/>
