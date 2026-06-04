@@ -146,9 +146,3 @@ I love learning new technologies, improving my coding skills, and creating usefu
 <h3 align="center">Thanks for visiting my profile! 🚀</h3>
 
 ---
-
-## 🔥 GitHub Streak
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=LunoNguyen&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
-</p>
