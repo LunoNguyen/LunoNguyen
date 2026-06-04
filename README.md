@@ -72,8 +72,6 @@ I love learning new technologies, improving my coding skills, and creating usefu
 
 ---
 
----
-
 ## 🎨 My Pixel Art Showcase
 
 <table align="center">
