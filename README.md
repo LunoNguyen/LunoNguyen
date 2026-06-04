@@ -121,6 +121,8 @@ I love learning new technologies, improving my coding skills, and creating usefu
   </tr>
 </table>
 
+---
+
 ## 📫 Contact Me
 
 <p>
@@ -131,18 +133,6 @@ I love learning new technologies, improving my coding skills, and creating usefu
   <a href="https://www.linkedin.com/in/ngan-luong-nguyen-928b283a5/">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
-</p>
-
----
-
-## 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=LunoNguyen&show_icons=true&theme=tokyonight" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=LunoNguyen&layout=compact&theme=tokyonight" />
 </p>
 
 ---
