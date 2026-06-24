@@ -124,7 +124,7 @@ I love learning new technologies, improving my coding skills, and creating usefu
 ## 📫 Contact Me
 
 <p>
-  <a href="mailto:nnl8a1@gmail.com">
+  <a href="mailto:nluno0138@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
 
